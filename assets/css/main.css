@@ -2843,7 +2843,7 @@ padding-left:0;
   margin-left: 90px !important;
   margin-right: 0px;
 }
-.dark .scrolled .header
+.dark.scrolled .header
 {
   background:#000 !important;
 }
