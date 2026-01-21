@@ -2851,3 +2851,9 @@ padding-left:0;
 {
   color:#ddd;
 }
+.dark #rtl-toggle {
+  color: #fff;
+}
+.dark .navmenu ul .dropdown ul li a {
+  color: #999 !important;
+}
