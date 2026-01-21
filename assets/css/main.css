@@ -2843,9 +2843,9 @@ padding-left:0;
   margin-left: 90px !important;
   margin-right: 0px;
 }
-.dark .header
+.dark .scrolled .header
 {
-  background:none !important;
+  background:#000 !important;
 }
 .dark .navmenu ul li a
 {
